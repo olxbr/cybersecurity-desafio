@@ -27,6 +27,8 @@ A seguir, é apresentada uma proposta de arquitetura na AWS para uma empresa de 
 
 ## Desafio
 
-Criar um código baseado no conceito de Infra as a Code (Terraform, Cloudformation e etc) que realize a criação de toda a arquitetura proposta levando em consideração as melhores práticas de requisitos de desempenho, escalabilidade, segurança e custo.
+Criar um código baseado no conceito de Infrastructure as Code (Terraform, Cloudformation e etc) que realize a criação de toda a arquitetura proposta levando em consideração as melhores práticas de requisitos de desempenho, escalabilidade, segurança e custo.
 
-==**Não é necessário criar a aplicação proposta no desafio, apenas a infraestrutura**==
+O código deve ser entregue em um projeto do GitHub.
+
+==**Não é necessário criar a aplicação proposta no desafio, apenas a infraestrutura necessária**==
