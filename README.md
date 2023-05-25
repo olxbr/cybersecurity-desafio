@@ -31,4 +31,4 @@ Criar um código baseado no conceito de Infrastructure as Code (Terraform, Cloud
 
 O código deve ser entregue em um projeto do GitHub.
 
-==**Não é necessário criar a aplicação proposta no desafio, apenas a infraestrutura necessária**==
+**Não é necessário criar a aplicação proposta no desafio, apenas a infraestrutura necessária**
